@@ -135,7 +135,7 @@ After running Snort:
 
 Maintained by Abhijith MR  
 GitHub: [@abhijithmr226](https://github.com/abhijithmr226)  
-LinkedIn: [abhijith226linkedin](https://www.linkedin.com/in/abhijithmr226)
+LinkedIn: [abhijith226](https://www.linkedin.com/in/abhijithmr226)
 
 ---
 
